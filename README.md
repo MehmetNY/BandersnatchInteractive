@@ -31,4 +31,4 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 * <kbd>Space</kbd> - Toggle play and pause
   
 ## Credit
-* based on [joric] work(https://github.com/joric/bandersnatch)
+* based on [joric](https://github.com/joric/bandersnatch) work
