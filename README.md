@@ -32,4 +32,3 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
   
 ## Credit
 * based on [joric work](https://github.com/joric/bandersnatch)
-* This project was copied from [mehotkhan](https://github.com/mehotkhan) for the **archive**.
